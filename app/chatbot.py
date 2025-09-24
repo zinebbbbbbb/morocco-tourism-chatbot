@@ -9,7 +9,7 @@ memory = get_memory()
 prompt = get_prompt()
 
 llm = LlamaCpp(
-    model_path="models/llama-2-7b-chat.Q4_K_M.gguf",
+    model_path="llama-2-7b-chat.Q4_K_M.gguf",
     n_gpu_layers=40,
     n_ctx=4096,
     n_batch=256,
