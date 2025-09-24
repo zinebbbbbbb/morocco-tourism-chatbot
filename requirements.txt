@@ -1,0 +1,9 @@
+gradio
+pandas
+faiss-cpu
+langchain
+llama-cpp-python
+huggingface-hub
+langchain-huggingface
+langchain-community
+sentence-transformers

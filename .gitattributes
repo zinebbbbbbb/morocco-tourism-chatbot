@@ -1,0 +1,5 @@
+*.csv binary
+*.png binary
+*.jpg binary
+*.xml text
+*.py text
